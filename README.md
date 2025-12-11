@@ -12,7 +12,7 @@ The project focuses on transforming 6 months of business data into clear, intera
 
 ## 📁 Project Overview
 
-Shield Insurance operates across multiple Indian cities using both offline and digital channels.
+Shield Insurance is a customer-focused insurance provider operating across major Indian metro cities. The company offers diverse policy solutions catering to multiple age groups, focusing on accessibility, agent support, and digital growth through online platforms.
 
 This analysis focuses on:
 
@@ -34,23 +34,22 @@ A simple navigation hub that links to all dashboard sections.
 
 ### **General View**  
 A complete business snapshot showing total revenue, customers, monthly trends, and demographic contributions.  
- 
+![General View](screenshots/General_View.png) 
 ---
 
 ### **Sales Mode Analysis**  
 A channel performance view comparing offline vs digital customer acquisition and revenue contribution.  
-
+![Sales Mode Analysis](screenshots/Sales_Mode_Analysis.png)
 ---
 
 ### **Age Group Analysis**  
 A demographic analysis showing revenue, customer trends, policy distribution, and expected settlement across age groups.  
-
+![Age Group Analysis](screenshots/Age_Group_Analysis.png)
 ---
 
 ## 🗂️ Data Model Screenshot
-
 A visual representation of the data model used to build the dashboard.  
-
+![Data Model](screenshots/Data_Model.png)
 ---
 
 ## 🔍 Key Insights
