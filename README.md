@@ -29,7 +29,7 @@ This analysis focuses on:
 
 ### **Home Page**  
 A simple navigation hub that links to all dashboard sections.  
-
+![Home Page](screenshots/Home_Page.png)
 ---
 
 ### **General View**  
